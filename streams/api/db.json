@@ -45,14 +45,13 @@
     },
     {
       "title": "Stream using Work Account",
-      "description": "Yay Google",
+      "description": "Yay Google nurmer",
       "userId": "107634034074348229751",
       "id": 10
     },
     {
-      "title": "Another Stream",
-      "description": "DRY code",
-      "userId": "107634034074348229751",
+      "title": "it changed!",
+      "description": "but why?",
       "id": 11
     }
   ]
